@@ -12,3 +12,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+TARGET_BOARD_INFO_FILE := vendor/huawei/angler/vendor-board-info.txt
