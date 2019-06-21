@@ -21,7 +21,6 @@ PRODUCT_PACKAGES += \
     ims \
     SetupSmartDeviceOverlay \
     TimeService \
-    Tycho
 
 # Prebuilt jars
 PRODUCT_PACKAGES += \
